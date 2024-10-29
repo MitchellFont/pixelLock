@@ -54,4 +54,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Acknowledgments
 Pillow Documentation: https://pillow.readthedocs.io/en/stable/
+
 Tkinter Documentation: https://docs.python.org/3/library/tkinter.html
