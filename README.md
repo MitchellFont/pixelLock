@@ -17,7 +17,7 @@ Pillow (PIL) for image processing
 Installation
 To run this project, you'll need Python installed on your machine. Follow these steps to set up the project:
 
-Clone the repository: git clone https://github.com/yourusername/steganography-password-encoder-decoder.git
+Clone the repository
 
 Navigate to the project directory: cd steganography-password-encoder-decoder
 
